@@ -13,7 +13,7 @@
 }
 
 body {
-  background: rgba(232, 213, 194) no-repeat top center/cover;
+  background: url(./assets/liso.png) no-repeat top center/cover;
 }
 
 body * {
